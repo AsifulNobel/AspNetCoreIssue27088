@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomTotpTokenProviders", "CustomTotpTokenProviders\CustomTotpTokenProviders.csproj", "{FE4E6C64-C0A7-4EA3-ACFA-98013A668E47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomTotpTokenProviders.Tests", "CustomTotpTokenProviders.Tests\CustomTotpTokenProviders.Tests.csproj", "{1ECAAC54-8096-4802-8112-53D31E4BB702}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE4E6C64-C0A7-4EA3-ACFA-98013A668E47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE4E6C64-C0A7-4EA3-ACFA-98013A668E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE4E6C64-C0A7-4EA3-ACFA-98013A668E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE4E6C64-C0A7-4EA3-ACFA-98013A668E47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ECAAC54-8096-4802-8112-53D31E4BB702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ECAAC54-8096-4802-8112-53D31E4BB702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ECAAC54-8096-4802-8112-53D31E4BB702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ECAAC54-8096-4802-8112-53D31E4BB702}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
